@@ -1,4 +1,4 @@
-# 🖥️ Monitor de Recursos do Sistema (Java + OSHI + Singleton + Swing)
+# Monitor de Recursos do Sistema (Java + OSHI + Singleton + Swing)
 
 Este projeto é uma aplicação Java que monitora em tempo real o uso de **CPU**, **Memória RAM** e **Disco**, utilizando a biblioteca [OSHI](https://github.com/oshi/oshi). A arquitetura foi projetada com o padrão **Singleton**, garantindo que a coleta de dados do sistema ocorra em um único ponto centralizado. A interface gráfica foi feita com **Java Swing**, permitindo uma visualização simples e eficaz dos dados.
 
@@ -20,18 +20,18 @@ Este projeto é uma aplicação Java que monitora em tempo real o uso de **CPU**
 
 ## Funcionalidades
 
-- ✅ Coleta automática de informações do sistema com intervalo configurável
-- ✅ Leitura de CPU total e por núcleo
-- ✅ Leitura de uso de memória RAM
-- ✅ Leitura de uso de disco por partição
-- ✅ Interface gráfica com atualização em tempo real
-- ✅ Janelas separadas para cada recurso (CPU, RAM, Disco)
-- ✅ Design orientado a objetos com padrão **Singleton**
-- ✅ Exibição centralizada das janelas ao abrir
+- Coleta automática de informações do sistema com intervalo configurável
+- Leitura de CPU total e por núcleo
+- Leitura de uso de memória RAM
+- Leitura de uso de disco por partição
+- Interface gráfica com atualização em tempo real
+- Janelas separadas para cada recurso (CPU, RAM, Disco)
+- Design orientado a objetos com padrão **Singleton**
+- Exibição centralizada das janelas ao abrir
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Tecnologia      | Descrição                                 |
 |-----------------|---------------------------------------------|
