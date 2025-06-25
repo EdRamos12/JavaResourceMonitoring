@@ -8,7 +8,7 @@ Este projeto é uma aplicação Java que monitora em tempo real o uso de **CPU**
 
 > Interface principal com leitura automática dos dados do sistema em tempo real:
 
-![Screenshot](https://github.com/EdRamos12/JavaResourceMonitoring/blob/main/img/Screenshot.png)
+![Screenshot](https://github.com/EdRamos12/JavaResourceMonitoring/blob/main/img/Screenshot.jpg)
 
 > Janelas específicas para CPU, RAM e Disco:
 
